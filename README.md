@@ -16,12 +16,12 @@
 - Interesse em programação e desenvolvimento de software.
 - Microsoft Excel — Intermediário.
 - Inglês — Avançado.
-- 🇪🇸 Espanhol — Básico.
+- Espanhol — Básico.
 - Em constante aprendizado e desenvolvimento profissional.
 
 ---
 
-## Tecnologias e ferramentas
+## Linguagens
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
