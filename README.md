@@ -1,5 +1,4 @@
-# Olá! Eu sou Arthur Duque 👋
-
+# Olá! Eu sou Arthur Duque 
 ### Estudante de Desenvolvimento de Sistemas | Tecnologia e Inovação
 
 <p align="left">
@@ -12,13 +11,13 @@
 
 ## Sobre mim
 
-- 🎓 Curso Técnico em Desenvolvimento de Sistemas — SENAI.
-- 🏫 2º ano do Ensino Médio — SESI.
-- 💻 Interesse em programação e desenvolvimento de software.
-- 📊 Microsoft Excel — Intermediário.
-- 🌎 Inglês — Avançado.
+- Curso Técnico em Desenvolvimento de Sistemas — SENAI.
+- 2º ano do Ensino Médio — SESI.
+- Interesse em programação e desenvolvimento de software.
+- Microsoft Excel — Intermediário.
+- Inglês — Avançado.
 - 🇪🇸 Espanhol — Básico.
-- 🚀 Em constante aprendizado e desenvolvimento profissional.
+- Em constante aprendizado e desenvolvimento profissional.
 
 ---
 
@@ -64,7 +63,7 @@
 
 Aqui compartilho projetos desenvolvidos durante minha formação no SENAI e minha jornada de aprendizado em programação.
 
-🚧 Novos projetos em desenvolvimento!
+ Novos projetos em desenvolvimento!
 
 ---
 
