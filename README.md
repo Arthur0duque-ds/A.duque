@@ -73,9 +73,9 @@ Aqui compartilho projetos desenvolvidos durante minha formação no SENAI e minh
   Conheça um pouco mais sobre minha formação, conhecimentos, idiomas e habilidades profissionais.
 </p>
 
-<!-- ADICIONAR O LINK DO CURRÍCULO HTML AQUI QUANDO ESTIVER PUBLICADO -->
 
-<a href="SEU-LINK-DO-CURRICULO">
+
+<a href="https://arthur0duque-ds.github.io/Curr-culo-/">
   <img src="https://img.shields.io/badge/MEU%20CURR%C3%8DCULO-1769AA?style=for-the-badge&logo=readme&logoColor=white" alt="Meu currículo"/>
 </a>
 
